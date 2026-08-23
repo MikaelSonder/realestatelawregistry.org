@@ -1,1 +1,166 @@
+# International Real Estate Law Registry
+> A structured, neutral international reference registry explaining how real estate law operates across jurisdictions.
 
+## Overview
+
+International Real Estate Law Registry is an editorial reference publication covering the legal and administrative operation of real estate law in selected jurisdictions.
+
+The Registry is designed for international business decision-makers, property owners, investors, lenders, developers, legal professionals, corporate groups and researchers. It explains how property ownership, transfer, registration, financing, leasing, planning, construction and development operate in practical institutional settings.
+
+The Registry is not a marketplace, legal-services advertisement, lead-generation page, affiliate publication or substitute for legal advice. Each Registry Object is a neutral professional reference record.
+
+## Core Architecture
+
+Home → Jurisdiction Index → Registry Object
+
+- Home: https://realestatelawregistry.org/
+- Jurisdiction Index: https://realestatelawregistry.org/jurisdictions/
+- Privacy Policy: https://realestatelawregistry.org/privacy-policy/
+- Terms of Use: https://realestatelawregistry.org/terms-of-use/
+
+## Registry Object Standard
+
+A Registry Object represents one professional domain in one jurisdiction.
+
+Every Registry Object explains how the real-estate law function operates within the relevant institutional, legal, administrative and commercial environment. The objective is to help a reader understand the professional function, identify the relevant authorities, understand the governing framework, follow the practical process, identify typical documents and recognise when qualified local professional support is required.
+
+## Standard Record Structure
+
+Each jurisdictional record follows a consistent editorial structure:
+
+1. Identity and Registry Metadata
+2. Executive Summary
+3. Object Definition
+4. Scope
+5. Purpose
+6. Primary Outcome
+7. Request Contexts
+8. Typical Users
+9. Typical Scenarios
+10. Country or Jurisdiction Characteristics
+11. Key Authorities
+12. Applicable Legislation
+13. Process Flow
+14. Decision Tree
+15. Timeline
+16. Required Documents
+17. Cross-Border Relevance
+18. Operating Constraints and Risks
+19. Costs and Fees
+20. Frequently Asked Questions
+21. Related Professional Areas
+22. Practical Guidance
+23. Jurisdictional Expert
+24. Machine Layer
+
+## Core Subject Coverage
+
+The Registry’s real-estate law records may cover, where relevant to the jurisdiction:
+
+- Ownership of land and buildings
+- Acquisition and sale of real property
+- Conveyancing and closing procedure
+- Notarial, solicitor-led or other transfer formalities
+- Land registration, title registration, deeds and property records
+- Cadastral and property-description systems
+- Mortgages, security rights and financing
+- Easements, servitudes, usufruct, covenants and restrictions
+- Leases, landlord-tenant issues and occupation rights
+- Condominium, apartment or co-ownership structures
+- Planning, zoning, building permits and development controls
+- Environmental, heritage, water, access and infrastructure considerations
+- Property taxation, transfer taxes and registration charges
+- Corporate acquisition structures and property-holding vehicles
+- Dispute risk, enforcement and property litigation context
+- Cross-border investment, foreign buyers and international financing
+
+## Methodology
+
+The Registry follows an editorial methodology designed for comparability and clarity:
+
+- One professional domain in one jurisdiction
+- Neutral, factual and evidence-oriented writing
+- Priority given to official legislation, government authorities, public institutions and official registry sources
+- Explanation of concepts and process before detailed legal references
+- Focus on practical implementation, not only legal terminology
+- Clear separation between editorial content and any Jurisdictional Expert record
+- No commercial participant may determine or alter editorial content
+
+## Jurisdictional Expert Model
+
+Each Registry Object includes a Jurisdictional Expert record after the editorial material.
+
+The Jurisdictional Expert position is structurally distinct from the jurisdiction’s editorial reference content. It may identify an available position for a qualified professional with relevant local real-estate law expertise.
+
+A Jurisdictional Expert record can include:
+
+- Registry Position ID
+- Registry Position
+- Professional Domain
+- Jurisdiction
+- Registry Availability
+- Verification Status
+- Expected Coverage
+- Professional Profile
+- Verification Standard
+- Editorial Independence
+- Registry Reference
+- Contact Information
+
+Editorial Independence: Registry participation does not alter, control or determine editorial content.
+
+## Cross-Border Framework
+
+Cross-border relevance is considered in every Registry Object because property transactions often involve foreign investors, lenders, group companies, occupiers, developers or family offices.
+
+Common cross-border topics include:
+
+- Recognition of property rights under local law
+- Eligibility of foreign buyers and ownership restrictions
+- Local entity, tax and registration requirements
+- Corporate authority, power of attorney, legalisation and translation
+- Language requirements in official and transaction processes
+- Foreign investment, sanctions and anti-money-laundering compliance
+- International financing and security documentation
+- Local planning, permit and environmental controls
+- Registration priority and third-party protection
+
+## Reading a Registry Record
+
+A reader should use a jurisdictional record to understand:
+
+1. What real estate law covers in the selected jurisdiction
+2. How a transaction or property matter generally proceeds
+3. Which public authorities, registers and local institutions are relevant
+4. Which legal instruments and regulatory layers typically matter
+5. Which documents should be expected in a transaction, financing or development process
+6. Which risks can arise from title, registration, planning, taxes, occupation or cross-border participation
+7. When tailored advice from a qualified local professional is required
+
+## Related Professional Areas
+
+Real estate law frequently connects with:
+
+- Construction law
+- Planning and zoning law
+- Environmental law
+- Tax law
+- Corporate law
+- Banking and finance
+- Insurance
+- Valuation and surveying
+- Property management
+- Dispute resolution
+
+## Important Notice
+
+The Registry provides general editorial reference information only. It is not legal advice, tax advice, investment advice, financial advice or professional advice. It does not create a lawyer-client, adviser-client or other professional relationship.
+
+Property rights, registration practice, taxes, fees, planning rules, foreign-acquisition restrictions, building requirements and official processes vary by property, transaction, parties and jurisdiction. Readers should obtain qualified local legal, tax, technical and financial advice before acting.
+
+## Website Links
+
+- Home: https://realestatelawregistry.org/
+- Jurisdictions: https://realestatelawregistry.org/jurisdictions/
+- Privacy Policy: https://realestatelawregistry.org/privacy-policy/
+- Terms of Use: https://realestatelawregistry.org/terms-of-use/
