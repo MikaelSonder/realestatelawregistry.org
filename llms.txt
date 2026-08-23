@@ -1,1 +1,54 @@
+# International Real Estate Law Registry
+> A structured, neutral reference registry explaining how real estate law operates across jurisdictions.
 
+International Real Estate Law Registry is an editorial reference publication for international business decision-makers, property owners, investors, lenders, developers, legal professionals and researchers.
+
+The Registry explains the practical operation of real estate law within each covered jurisdiction. Each Registry Object addresses the professional function, relevant authorities, legal framework, transaction process, property registration, required documents, planning and development context, cross-border relevance, operating risks and a Jurisdictional Expert position.
+
+## Core Pages
+
+- [Home](https://realestatelawregistry.org/): Registry mission, coverage and access to the jurisdiction index.
+- [Jurisdictions](https://realestatelawregistry.org/jurisdictions/): Index of jurisdictional Registry Objects.
+- [Privacy Policy](https://realestatelawregistry.org/privacy-policy/): Privacy information.
+- [Terms of Use](https://realestatelawregistry.org/terms-of-use/): Terms governing use of the Registry.
+
+## Registry Model
+
+Each Registry Object represents one professional domain in one jurisdiction. It is written as a neutral professional handbook chapter rather than a landing page, advertisement, directory listing or legal advice.
+
+Each jurisdictional record follows a consistent structure:
+
+- Executive Summary
+- Object Definition
+- Scope
+- Purpose
+- Request Contexts, Users and Scenarios
+- Country or Jurisdiction Characteristics
+- Key Authorities
+- Applicable Legislation
+- Process Flow
+- Decision Tree
+- Timeline
+- Required Documents
+- Cross-Border Relevance
+- Operating Constraints and Risks
+- Costs and Fees
+- Frequently Asked Questions
+- Related Professional Areas
+- Practical Guidance
+- Jurisdictional Expert
+- Machine Layer
+
+## Editorial Principles
+
+- Neutral and factual editorial reference content
+- Education before conversion
+- Authority before SEO
+- Editorial independence from professional participation
+- Consistent jurisdiction-by-jurisdiction structure
+- Focus on practical legal and administrative operation
+- Written for international business decision-makers
+
+## Important Notice
+
+The Registry provides general editorial reference information. It is not legal advice and does not create a lawyer-client, adviser-client or other professional relationship. Real estate law, registration practice, taxes, planning rules and professional requirements vary by property, transaction and jurisdiction. Obtain qualified local professional advice before acting.
